@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="p_f_balls_obj.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="303"/>
+        <CursorPos X="21" Y="321"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="193"/>
+        <CursorPos X="23" Y="206"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="43" Column="39" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="76" Column="30" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="87" Column="53" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="53" Column="23" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="99" Column="25" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="100" Column="33" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="118" Column="3" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="107" Column="17" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="67" Column="21" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="82" Column="16" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="86" Column="12" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="88" Column="12" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="109" Column="15" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="114" Column="17" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="59" Column="38" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="223" Column="11" TopLine="212"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="114" Column="17" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="62" Column="25" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="114" Column="19" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="219" Column="22" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="240" Column="32" TopLine="235"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="241" Column="32" TopLine="236"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="128" Column="3" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="363" TopLine="326"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="370" TopLine="346"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="139" Column="25" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="57" Column="7" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="357" Column="21" TopLine="344"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="319" Column="47" TopLine="296"/>
+      </Position>
+      <Position>
+        <Filename Value="u_f_balls_obj.pas"/>
+        <Caret Line="298" TopLine="281"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
